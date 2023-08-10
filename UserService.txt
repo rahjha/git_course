@@ -1,1 +1,5 @@
 get the list of all users..
+
+process the data
+
+and create new avatar for all users
